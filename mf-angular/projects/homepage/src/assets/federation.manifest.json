@@ -1,0 +1,4 @@
+{
+	"mfAngular": "http://localhost:4200/remoteEntry.json",
+	"blog": "http://localhost:4201/remoteEntry.json"
+}
